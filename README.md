@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # 💫 About Me:
 I am Junior Level Designer working in Teyon Lodz.<br>I like watching films and series.<br>I love playing and making games!
 
@@ -27,4 +24,4 @@ I am Junior Level Designer working in Teyon Lodz.<br>I like watching films and s
 ---
 [![](https://visitcount.itsvg.in/api?id=MoonGuyPro&icon=0&color=0)](https://visitcount.itsvg.in)
 
--->
+
