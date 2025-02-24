@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Level Designer working in Teyon Lodz.<br>I like watching films and series.<br>I love playing and making games!
+I am a Junior Level/Game Designer. I was working in Teyon Lodz.<br>I like watching films and series.<br>I love playing and making games!
 
 
 ## 🌐 Socials:
